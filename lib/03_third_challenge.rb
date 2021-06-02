@@ -13,5 +13,4 @@ def third_challenege
       :heroine_friends => []
    }
 }
-
 end
